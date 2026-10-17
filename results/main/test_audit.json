@@ -1,0 +1,9 @@
+{
+  "locked_config_sha256": "f6f408a7f311e0f91ccb19881f37d3d9f6e2bd05bf939192710f23797542b9cd",
+  "peak_rss_raw": 1946025984,
+  "finished_at_utc": "2026-10-17T12:22:58.018750+00:00",
+  "source_checksums": {
+    "data_en.zip": "fddc5b2215bfff49bcfa21e464441f1fc6dc30f8f4afe41d3f23bf3fc45f3542",
+    "items.csv": "027c3a0027b4fe4a8db9d5fa626ab40bab507c96aac81d462db0771eb2cb4a8e"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "status": "passed",
+  "seed": 901,
+  "splits": [
+    {
+      "split": "train_1",
+      "random_rows_checked": 100,
+      "assertions_per_row": 12,
+      "candidate_rows": 200000,
+      "unique_pairs": true,
+      "no_seen_pairs": true,
+      "known_catalog_only": true
+    },
+    {
+      "split": "train_2",
+      "random_rows_checked": 100,
+      "assertions_per_row": 12,
+      "candidate_rows": 200000,
+      "unique_pairs": true,
+      "no_seen_pairs": true,
+      "known_catalog_only": true
+    },
+    {
+      "split": "train_3",
+      "random_rows_checked": 100,
+      "assertions_per_row": 12,
+      "candidate_rows": 200000,
+      "unique_pairs": true,
+      "no_seen_pairs": true,
+      "known_catalog_only": true
+    },
+    {
+      "split": "search",
+      "random_rows_checked": 100,
+      "assertions_per_row": 12,
+      "candidate_rows": 327600,
+      "unique_pairs": true,
+      "no_seen_pairs": true,
+      "known_catalog_only": true
+    },
+    {
+      "split": "tune",
+      "random_rows_checked": 100,
+      "assertions_per_row": 12,
+      "candidate_rows": 257200,
+      "unique_pairs": true,
+      "no_seen_pairs": true,
+      "known_catalog_only": true
+    }
+  ],
+  "independent_test_metrics_checked": false
+}

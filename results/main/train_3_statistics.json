@@ -1,0 +1,19 @@
+{
+  "candidate_seconds": 7.396714333910495,
+  "known_items": 5050,
+  "history_rows": 54796,
+  "queries": 2000,
+  "candidate_rows": 200000,
+  "feature_seconds": 1.4210070411209017,
+  "feature_bytes": 168247211,
+  "feature_count": 193,
+  "manual_count": 64,
+  "cutoff": "2021-07-26 00:00:00",
+  "end": "2021-08-02 00:00:00",
+  "positive_queries": 412,
+  "positives": 1153,
+  "candidate_positives": 368,
+  "known_catalog_target_coverage": 0.8950563746747615,
+  "candidates_sha256": "446f7e64af589ef07e06ae351c9cf71bc15cd3ff3d699cf5409f0f183eb31fd3",
+  "total_seconds": 9.475727959070355
+}

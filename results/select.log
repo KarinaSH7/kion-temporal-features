@@ -1,0 +1,12 @@
+SEARCH top=12 NDCG=0.152286
+SEARCH top=24 NDCG=0.148479
+SEARCH top=48 NDCG=0.151967
+TUNE manual depth=5 best=0.110686
+TUNE manual depth=7 best=0.110686
+TUNE auto_all depth=5 best=0.110156
+TUNE auto_all depth=7 best=0.110156
+TUNE auto_selected depth=5 best=0.107459
+TUNE auto_selected depth=7 best=0.109520
+TUNE no_indirect depth=5 best=0.092177
+TUNE no_indirect depth=7 best=0.092679
+CONFIGURATION LOCKED; test not loaded

@@ -1,0 +1,12 @@
+{
+  "description": "Diagnostic ceiling: perfect ordering of the FIXED retrieved candidates, not a trained model",
+  "ndcg10": 0.43153804419791186,
+  "recall10": 0.385658479141314,
+  "ndcg10_all": 0.11855041769509315,
+  "candidate_recall100": 0.385658479141314,
+  "queries": 2377,
+  "positive_queries": 653,
+  "candidate_positives": 580,
+  "positive_rate": 0.002440050483803113,
+  "auc": 1.0
+}

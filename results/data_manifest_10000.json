@@ -1,0 +1,31 @@
+{
+  "source_revision": "f69775be31fa5779907cf0a92ddedb70037fb5ae",
+  "source_urls": {
+    "data_en.zip": "https://raw.githubusercontent.com/irsafilo/KION_DATASET/f69775be31fa5779907cf0a92ddedb70037fb5ae/data_en.zip",
+    "items.csv": "https://raw.githubusercontent.com/irsafilo/KION_DATASET/f69775be31fa5779907cf0a92ddedb70037fb5ae/data_original/items.csv"
+  },
+  "checksums": {
+    "data_en.zip": "fddc5b2215bfff49bcfa21e464441f1fc6dc30f8f4afe41d3f23bf3fc45f3542",
+    "items.csv": "027c3a0027b4fe4a8db9d5fa626ab40bab507c96aac81d462db0771eb2cb4a8e"
+  },
+  "population_rows": 5476251,
+  "population_users": 962179,
+  "population_items": 15706,
+  "source_start": "2021-03-13 00:00:00",
+  "source_end": "2021-08-22 00:00:00",
+  "seed": 42,
+  "n_users": 10000,
+  "rows": 64636,
+  "items": 5463,
+  "full_user_histories_verified": true,
+  "cutoffs": {
+    "train_1": "2021-07-12",
+    "train_2": "2021-07-19",
+    "train_3": "2021-07-26",
+    "search": "2021-08-02",
+    "tune": "2021-08-09",
+    "test": "2021-08-16"
+  },
+  "end": "2021-08-23",
+  "cohort_sha256": "3db2cde877259d57bdada2fe88c94372aecbc0b1ae3435429abc027e9906cfa4"
+}
